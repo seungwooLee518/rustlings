@@ -4,7 +4,7 @@
 // I AM NOT DONE
 
 fn main() {
-    let x;
+    let x = 10; // needs to be delcare variable with value
     if x == 10 {
         println!("Ten!");
     } else {
